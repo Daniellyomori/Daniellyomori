@@ -1,10 +1,8 @@
 ### Hello!
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-- 🔭 I’m currently working on ETL Development
-- 🌱 I’m currently learning about Front-End
-- 📫 How to reach me: 
--    - Twitter: @omori_danny
+- 🔭 Currently working on ETL Development
+- 🌱 Studing to became a Full-Stack developer
 - 😄 Pronouns: She/Her
 
 <div align="center">
